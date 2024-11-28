@@ -1,0 +1,100 @@
+
+.backgroud-footer{
+    padding: 43px 100px 0 100px;
+    background-color: #0A075F;
+    height: 100%;
+}
+.title-col1{
+    color: #109BE9;
+}
+.container{
+    width: 100%;
+    max-width: 100%;
+    height: 523px;
+}
+.title-col-2{
+font-size: 32px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0.01em;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #fff;
+
+}
+.container-icon-social{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 32px;
+}
+.high-light-footer{
+    color: #fff;
+    text-align: center;
+font-size: 14px;
+font-weight: 600;
+line-height: 22.4px;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-top: 87px;
+}
+.title-col-3{
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0.01em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #fff;
+}
+.sub-title-col-3{
+    font-family: "DM Sans"  Im !important;
+font-size: 14px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+ color: #f3f3f3;
+}
+.form-control{
+    border-radius: 45px;
+    height: 60px;
+    padding-left: 26px;
+    font-family: "DM Sans" !important;
+font-size: 12.16px;
+font-weight: 400;
+line-height: 15.83px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #959595;
+
+}
+.container-input-email-footer{
+    position: relative;
+}
+.btn-sunmit-footer{
+      all: initial;
+    position: absolute;
+    bottom: 7px;
+    right: 10px;
+    width: 150px;
+    height: 38px;
+    background-color: #F5167E;
+    border-color: #F5167E;
+    border-radius: 50px; 
+    color: #fff;
+    font-family: "DM Sans" !important;
+font-size: 12.16px;
+font-weight: 400;
+line-height: 15.83px;
+letter-spacing: 0.065em;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+ outline: none;
+ 
+}
