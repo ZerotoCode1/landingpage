@@ -23,4 +23,5 @@ text-align: center;
 }
 .description-historycal{
     color : #2A2A2A;
+    max-width: 240px;
 }

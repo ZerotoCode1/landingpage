@@ -1,0 +1,98 @@
+.container-overviewWarwithAmerican{
+    max-height: 700px;
+    background-color: #11142D;
+    padding: 33px 113px;
+}
+.content-overviewWarwithAmerican{
+ max-width: 1232px;
+ margin: 0 auto;
+ display: flex;
+ gap: 32px;
+}
+.box-vdeo{
+    background-color: #fff;
+    max-width: 696px;
+}
+.title-vdeo-war{
+font-family: Mulish;
+font-size: 24px;
+font-weight: 700;
+line-height: 28.8px;
+letter-spacing: 0.005em;
+text-align: left;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: auto;
+color: #11142D;
+}
+.box-title-vdeo{
+    padding: 20px;
+}
+.style-text-youtobe{
+font-family: Mulish;
+font-size: 12px;
+font-weight: 700;
+line-height: 13.2px;
+letter-spacing: 0.008em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #9A9AB0;
+margin-top: 20px;
+
+}
+.style-text-youtobe:first-child{
+    margin-right: 20px;
+}
+.card-over-item{
+    display: flex;
+ background-color: #fff;
+ margin-bottom: 16px;
+}
+.content-overcarditem{
+    padding: 16px;
+
+}
+.text-item{
+font-family: Mulish;
+font-size: 24px;
+font-weight: 700;
+line-height: 28.8px;
+letter-spacing: 0.005em;
+text-align: left;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: auto;
+color: #11142D;
+
+}
+.sub-text-item{
+font-family: Mulish;
+font-size: 12px;
+font-weight: 700;
+line-height: 13.2px;
+letter-spacing: 0.008em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #9A9AB0;
+margin-top: 20px;
+
+}
+.see-more{
+    font-family: IBM Plex Sans KR;
+font-size: 128px;
+font-weight: 600;
+line-height: 95px;
+letter-spacing: 0.01em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #fff;
+
+}
+.container-overviewWarwithAmerican .container-menu-box{
+    margin-bottom: 65px;
+}

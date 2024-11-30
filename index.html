@@ -12,23 +12,71 @@
     <link rel="stylesheet" href="./components/Footer/footer.css">
     <link rel="stylesheet" href="./components/FeedBack/feedback.css">
     <link rel="stylesheet" href="./components/HistoryFigures/historyfigures.css">
+    <link rel="stylesheet" href="./components/CardBattles/cardBattles.css">
+    <link rel="stylesheet" href="./components/OverviewWarwithAmerican/OverviewWarwithAmerican.css">
+
+
 
     <link rel="stylesheet" href="./main.css">
+
+
+
 
 </head>
 
 <body>
-    <div class="container-fluid p-5 bg-primary text-white text-center">
-        <h1>My First Bootstrap Page</h1>
-        <p>Resize this responsive page to see the effect!</p>
-    </div>
-    <div class="content-container">
-        <div id="card-container">
-            <div></div>
+    <div class="">
+        <div class="container-fluid p-5 bg-primary text-white text-center">
+            <h1>My First Bootstrap Page</h1>
+            <p>Resize this responsive page to see the effect!</p>
         </div>
+        <a href="./Pages/Page1/page1.html" class="btn btn-primary">Chuyển sang trang mới</a>
+        <div class="give-contact-container">
+            <div class="content-give-contact">
+                <p class="title-give-contact">Want to Get New
+                    Updates about Our Web Daily?</p>
+                    <div class="row box-give-contact">
+                        <div class="col-1">
+                            <input type="text" class="" placeholder="Enter your email" aria-label="Username"
+                                aria-describedby="basic-addon1">
+                        </div>
+                        <div class="col-3">
+                             <input type="text" class="" placeholder="Enter your email" aria-label="Username"
+                                aria-describedby="basic-addon1">
+                        </div>
+                        <div class="col-1">
+                           <button class="btn btn-primary">Subscribe</button>
+                        </div>
+                    </div>
+            </div>
+
+        </div>
+        <div class="container-menu-box">
+            <h1 class="title-box-model">Historical Figures</h1>
+            <button class="btn-box-model">View All</button>
+        </div>
+        <div id="overview-war-width-french"></div>
+        <div id="overview-war-width-american"></div>
+        <div class="content-container">
+            <div>
+                <div class="container-menu-box">
+                    <h1 class="title-box-model">Historical Figures</h1>
+                    <button class="btn-box-model">View All</button>
+                </div>
+                <div id="card-battles"></div>
+            </div>
+            <div>
+                <div class="container-menu-box">
+                    <h1 class="title-box-model">Historical Figures</h1>
+                    <button class="btn-box-model">View All</button>
+                </div>
+                <div id="card-container"></div>
+            </div>
+        </div>
+        <div id="feedback-link"></div>
+        <div id="footer"></div>
     </div>
-    <div id="feedback-link"></div>
-    <div id="footer"></div>
+    <script src="./battles.js"></script>
     <script src="./historyhuman.js"></script>
 </body>
 
