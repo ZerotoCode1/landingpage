@@ -173,3 +173,192 @@ a{
     text-decoration: none;
     color: #fff;
 }
+@media (max-width:1400px){
+    .heading-title{
+        font-size: 30px;
+    }
+    .sub-heading-title{
+        font-size: 20px;
+    }
+    .btn-give-contact{
+        margin-left: 0;
+    }
+
+}
+@media (max-width:1178px){
+   .box-give-contact{
+         flex-direction: column;
+         align-items: flex-start;
+         gap: 10px;
+   }
+   .input-col1{
+         width: 100%;
+   }
+   #overview-war-width-french{
+         flex-direction: column;
+         align-items: center;
+         margin-bottom: 30px;
+   }
+   #overview-war-width-french .container-card-battles{
+    width: 90%;
+   }
+   .div-see-more{
+   display: none;
+   }
+   .box-vdeo iframe{
+       width: 100%;
+   }
+   .heading-title{
+         font-size: 20px;
+   }
+   .sub-heading-title{
+            font-size: 18px;
+   }
+   .container-menu-box{
+    width: 90%;
+   }
+   .content-container{
+    padding: 0 20px;
+   }
+}
+@media (max-width: 1035px){
+    .intro-web{
+        flex-direction: column;
+    }
+    .intro-web p{
+        text-align: center;
+    }
+    .heading-title{
+        max-width: 100%;
+    }
+    .box-image-header{
+        max-width: 556px;
+        margin: 0 auto;
+    }
+    #card-container{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media (max-width: 979px){
+    .content-overviewWarwithAmerican{
+        flex-direction: column;
+    }
+    .container-overviewWarwithAmerican{
+        max-height: unset;
+
+    }
+    .box-vdeo{
+        max-width: 100%;
+    }
+}
+@media (max-width: 879px){
+    .box-search{
+        margin-left: 10px;
+    }
+    .input-search{
+        width: 100px;
+    }
+    .backgroud-footer{
+        padding: 20px;
+    }
+    .title-box-model{
+        font-size: 23px;
+    }
+    .img-mail{
+        display: none;
+    }
+}
+@media (max-width: 745px){
+    .btn-box-model{
+        width: 100px;
+        height: 40px;
+        padding: 0;
+    }
+    .btn-box-model a{
+        font-size: 14px;
+    }
+    .container-overviewWarwithAmerican{
+        padding: 33px 20px;
+    }
+    .box-image-header img{
+        width: 200px;
+        height: 200px;
+    }
+    .sadox-image{
+        width: 180px;
+        height: 180px;
+    }
+    .content-give-contact{
+        padding: 0 20px;
+    }
+    .input-give-contact{
+        width: 200px;
+    }
+    .title-give-contact{
+        font-size: 20px;
+        margin-right: 20px;
+        width: 500px;
+    }
+    .nav-1{
+        display: grid;
+        grid-gap:10px
+
+    }
+    .title-heading{
+        font-size: 20px;
+    }
+    .box-give-contact{
+        max-width: 50px;
+    }
+    .give-contact-container{
+        height: auto;
+        padding:  20px 0;
+    }
+    .content-give-contact,
+    .header-link{
+        flex-direction: column;
+    }
+    .input-search{
+        width: 100%;
+    }
+    .box-give-contact{
+        max-width: 100%;
+    }
+    .input-give-contact{
+        width: 300px;
+    }
+    .title-give-contact{
+        margin-bottom: 20px;
+        max-width: 200px;
+        margin-right: 0;
+        text-align: center;
+    }
+    .card-over-item{
+        flex-direction: column;
+    }
+    #card-container{
+        grid-template-columns: 1fr;
+    }
+    .btn-to-link{
+        width: 200px;
+    }
+    .container-link-feedback {
+             height: auto;
+             padding-bottom: 20px;
+    }
+    #card-battles{
+        grid-template-columns: 1fr;
+
+    }
+    .backgroud-footer{
+        height: unset;
+    }
+    .container-input-email-footer{
+        margin-top: 20px;
+    }
+    .content-header{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}

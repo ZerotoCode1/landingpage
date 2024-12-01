@@ -129,3 +129,71 @@ color: #11142D;
     margin-top: 98px;
     margin-bottom: 80px;
 }
+@media (max-width: 1205px){
+  .header-link-item{
+    margin-right: 5px;
+  }
+}
+@media (max-width: 1105px){
+    .header-link{
+      flex-direction: column;
+    }
+    .input-search{
+        width: 100%;
+
+    }
+    .box-search{
+        margin-left: 0;
+    }
+}
+@media (max-width: 850px){
+   #card-battles{
+         grid-template-columns: repeat(2, 1fr);
+   }
+    .backgroud-footer{
+    padding: 30px 20px 0;
+   }
+   .heading-title{
+    font-size: 30px;
+   }
+   .sub-heading-title{
+    font-size: 24px;
+   }
+   .heading-page-4{
+    font-size: 30px;
+   }
+   .content-page-4{
+    padding-top: 30px;
+   }
+}
+@media (max-width: 480px){
+    .content-page-4{
+        max-width: calc(100% - 40px);
+    }
+    .vdeo-iframe iframe{
+        height: 400px;
+    }
+     .backgroud-footer{
+        height: auto;
+        padding-bottom: 30px;
+     }
+     #card-battles{
+        grid-template-columns: 1fr;
+     }
+     .img-mail{
+        display: none;
+     }
+     .container-link-feedback{
+        height: auto;
+        padding: 20px;
+     }
+     .text-highlight{
+        font-size: 20px;
+     }
+     .content-header{
+        padding: 20px;
+     }
+     .heading-page-4{
+        line-height: normal;
+     }
+}
