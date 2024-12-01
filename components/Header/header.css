@@ -1,0 +1,128 @@
+.content-header{
+    padding: 0 37px 0 113px;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-top: 28px;
+}
+.container-fluid,
+.navbar-nav{
+    background-color: #11142D;
+}
+.header-link{
+    display: flex;
+}
+.header-link-item{
+font-family: Mulish;
+font-size: 16px;
+font-weight: 700;
+line-height: 19.2px;
+letter-spacing: 0.005em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+text-decoration: none;
+margin-right: 41px;
+}
+.container-header{
+    background-color: #11142D;
+    /* height: 769px;   */
+}
+.title-heading{
+    font-family: IBM Plex Sans KR;
+font-size: 26px;
+font-weight: 600;
+line-height: 39px;
+letter-spacing: 0.01em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+}
+.input-search{
+    width: 274px;
+    height: 48px;
+    background-color: #FABA9E;
+    border-radius: 8px;
+    padding-left: 40px;
+}
+.box-search{
+    position: relative;
+    margin-left: 118px;
+}
+.icon-search{
+    position: absolute;
+    top: 35%;
+    left: 11px;
+    transform: translateY(-50%);
+}
+.input-search::placeholder{
+    color: #FFFFFF;
+}
+.nav-box{
+    margin-left: 30px;
+
+}
+.nav-1{
+    margin-bottom: 15px;
+}
+.header-link{
+    padding: 20px 0;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+.intro-web{
+    display: flex;
+    justify-content: space-between;
+}
+.heading-title{
+font-family: Mulish;
+font-size: 62px;
+font-weight: 700;
+line-height: 74.4px;
+letter-spacing: 0.003em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+max-width: 608px;
+}
+.sub-heading-title{
+    font-family: IBM Plex Sans KR;
+font-size: 40px;
+font-weight: 600;
+line-height: 60px;
+letter-spacing: 0.01em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #fff;
+}
+.sadox-image{
+    width: 504px;
+height: 502px;
+top: 39px;
+left: -39px;
+gap: 0px;
+opacity: 0px;
+ background-color: #292B42;
+ position: absolute;
+}
+.box-image-header{
+    position: relative;
+}
+
+.box-image-header > div:first-child {
+    position: relative;
+    z-index: 2; /* Hình ảnh ở trên */
+}
+.sadox-image {
+    z-index: 1; /* Sadox nằm dưới */
+   
+}
+.intro-web{
+    padding: 24px 0 94px 0;
+}
+.nav-2{
+    margin-right: 117px;
+}

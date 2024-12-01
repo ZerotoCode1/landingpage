@@ -100,10 +100,13 @@ color: #2a2a2a;
 }
 .give-contact-container{
     background-color: #0A075F;
-
+    height: 223px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
 }
 .title-give-contact{
-    font-family: Manrope;
+font-family: Manrope;
 font-size: 24px;
 font-weight: 700;
 line-height: 28.8px;
@@ -112,7 +115,7 @@ text-underline-position: from-font;
 text-decoration-skip-ink: none;
 color: #fff;
 max-width: 196px;
-
+margin-right: 64px;
 }
 .content-give-contact{
     max-width: 1232px;
@@ -124,4 +127,49 @@ max-width: 196px;
     display: flex;
     align-items: center;
     flex:1;
+}
+.input-col1{
+    width: 307px;
+    padding: 0;
+}
+.input-col2{
+  width: 450px;
+    padding: 0;
+
+}
+.btn-give-contact{
+    width: 171px;
+height: 50px;
+border-radius: 4px 0px 0px 0px;
+background-color: #F4796C;
+color: #fff;
+outline: none;
+border: none;
+border-radius: 4px;
+margin-left: 7px;
+}
+.input-give-contact{
+    width: 100%;
+    height: 50px;
+    border-radius: 6px;
+    background-color: #8483AF;
+    color: #fff;
+    font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 16.94px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+outline: none;
+border: none;
+padding-left: 24px;
+}
+.input-give-contact::placeholder {
+  color: #fff; 
+  font-size: 14px; 
+}
+a{
+    text-decoration: none;
+    color: #fff;
 }

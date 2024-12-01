@@ -1,0 +1,168 @@
+.intro-web{
+
+}
+.title-content-firt{
+font-family: Mulish;
+font-size: 64px;
+font-weight: 700;
+line-height: 76.8px;
+letter-spacing: 0.005em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #0A075F;
+}
+.caontainer-content-firt{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 50px;
+    margin-top: 15px;
+}
+.content-firt{
+    max-width: 1440px;
+    padding: 45px 66px;
+    margin: 0 auto;
+}
+.box-content1{
+    background-image: url('../../assets/bgcontent1.png');
+}
+.img-john{
+width: 553px;
+height: 379px;
+}
+
+
+.tilte-link-content1{
+font-family: Mulish;
+font-size: 28px;
+font-weight: 600;
+line-height: 33.6px;
+letter-spacing: 0.005em;
+text-align: left;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: auto;
+color: black;
+}
+.cv{
+    margin-bottom: 21px;
+}
+.caontainer-content-firt p{
+font-family: "Mulish";
+font-size: 28px;
+font-weight: 600;
+line-height: 33.6px;
+letter-spacing: 0.005em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #333;
+
+}
+
+.box-content2{
+    background-image: url('../../assets/content2.png');
+}
+.content-sercond{
+       max-width: 1440px;
+    padding: 45px 66px;
+    margin: 0 auto;
+}
+.description-box2 p,
+.text-content-box{
+font-family: Mulish;
+font-size: 28px;
+font-weight: 600;
+line-height: 33.6px;
+letter-spacing: 0.005em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #333;
+}
+.offensive-row-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 50px;
+    margin-top: 60px;
+}
+.describe-offensive{
+
+width: 100%;
+text-align: center;
+}
+.describe-offensive a{
+    font-family: Mulish;
+font-size: 28px;
+font-weight: 600;
+line-height: 33.6px;
+letter-spacing: 0.005em;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: auto;
+color: #333333;
+}
+.description-box2{
+    margin-top: 46px;
+}
+.description-box2 p{
+    margin-top: 40px;
+}
+.content-3{
+    max-width: 1440px;
+    text-align: center;
+    padding: 57px 88px;
+    margin: 0 auto;
+}
+.title-content-3{
+font-family: Mulish;
+font-size: 64px;
+font-weight: 700;
+line-height: 76.8px;
+letter-spacing: 0.005em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #0A075F;
+text-align: left;
+}
+.linl-content-3 {
+font-family: Mulish;
+font-size: 28px;
+font-weight: 600;
+line-height: 33.6px;
+letter-spacing: 0.005em;
+text-align: left;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: auto;
+color: #333333;
+margin-bottom: 20px;
+}
+.sub-content-3{
+font-family: Mulish;
+font-size: 28px;
+font-weight: 600;
+line-height: 33.6px;
+letter-spacing: 0.005em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #333333;
+margin: 50px 0;
+}
+.key-battles{
+font-family: Mulish;
+font-size: 64px;
+font-weight: 700;
+line-height: 76.8px;
+letter-spacing: 0.005em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #0A075F;
+
+}

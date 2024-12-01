@@ -1,0 +1,62 @@
+.history-hcm{
+    background-image: url('../../assets/bg-hcm.png');
+    width: 100%;
+    height: 670px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    position: relative;
+}
+.name-human-history{
+    position: absolute;
+    top: 94px;
+    left: 69px;
+font-family: Mulish;
+font-size: 64px;
+font-weight: 400;
+line-height: 76.8px;
+letter-spacing: 0.005em;
+text-align: left;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: auto;
+color: #fff;
+
+}
+.des-1{
+    position: absolute;
+    top: 102px;
+    left: 490px;
+font-family: Mulish;
+font-size: 14px;
+font-weight: 600;
+line-height: 18.2px;
+letter-spacing: 0.008em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #fff;
+max-width: 285px;
+
+}
+.des-2{
+
+ position: absolute;
+    top: 72px;
+    right: 29px;
+font-family: Mulish;
+font-size: 14px;
+font-weight: 600;
+line-height: 18.2px;
+letter-spacing: 0.008em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #fff;
+max-width: 285px;
+
+
+
+
+}
