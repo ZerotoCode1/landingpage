@@ -1,0 +1,131 @@
+.content-page-4{
+    max-width: calc(100% - 208px);
+    margin: 0 auto;
+    padding-top: 80px;
+}
+.heading-page-4{
+    margin-bottom: 70px;
+    font-family: IBM Plex Sans KR;
+font-size: 64px;
+font-weight: 600;
+line-height: 96px;
+letter-spacing: 0.01em;
+text-align: center;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: auto;
+color: #11142D;
+}
+.hightlight-note{
+    max-width: 928px;
+    margin: 0 auto;
+    border-top: 1px solid #C31815;
+    border-bottom: 1px solid #C31815;
+    padding: 24px 0;
+}
+.text-highlight{
+   font-family: IBM Plex Serif;
+font-size: 28px;
+font-weight: 400;
+line-height: 42px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+ color: #2a2a2a;
+ margin-top: 15px;
+}
+.sub-vdeo{
+    font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #2a2a2a;
+margin-top: 38px;
+padding: 0 20px;
+max-width: 1208px;
+margin: 38px auto 25px;
+}
+.vdeo-iframe{
+    width: 100%;
+   max-width: 1232px;
+   margin: 0 auto;
+}
+#card-battles{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    margin-top: 93px;
+    max-width: 1232px;
+    margin: 0 auto;
+    margin-top: 83px;
+}
+.image-battless{
+    max-height: 251px;
+    height: 251px;
+    width: 100%;
+}
+.container-card-battles{
+    box-shadow: 0px 18.95px 47.38px 0px #7773AA1A;
+    border-radius: 19px;
+}
+.description-battles{
+    margin-bottom: 0;
+    padding: 20px 20px;
+    padding-top: 0;
+}
+.title-battless{
+    padding: 10px 20px 0;
+}
+.title-battless span:first-child{
+    font-family: DM Sans;
+font-size: 28.43px;
+font-weight: 700;
+line-height: 37.01px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #11142D;
+
+}
+.title-battless span:last-child{
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #11142D;
+}
+.coment-item{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    grid-gap: 15px;
+
+}
+.avt{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #909090;
+
+}
+.content-coment-item{
+    max-width: 1082px;
+}
+.input-coment-textarea{
+    width: 100%;
+    height: 182px;
+    outline: none;
+    border: 1px solid #E0E0E0;
+}
+.box-coment{
+    margin: 0 auto;
+    max-width: 1156px;
+    margin-top: 98px;
+    margin-bottom: 80px;
+}
